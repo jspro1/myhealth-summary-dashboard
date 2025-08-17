@@ -1,1 +1,47 @@
-
+{
+  "id": "patient-001",
+  "name": "Tran Mai",
+  "dob": "1985-04-12",
+  "gender": "Female",
+  "medications": [
+    {
+      "name": "Atorvastatin",
+      "dose": "20 mg",
+      "frequency": "once daily"
+    },
+    {
+      "name": "Metformin",
+      "dose": "500 mg",
+      "frequency": "twice daily"
+    },
+    {
+      "name": "Lisinopril",
+      "dose": "10 mg",
+      "frequency": "once daily"
+    }
+  ],
+  "allergies": [
+    {
+      "substance": "Penicillin",
+      "reaction": "Rash"
+    },
+    {
+      "substance": "Shellfish",
+      "reaction": "Swelling, difficulty breathing"
+    }
+  ],
+  "problems": [
+    {
+      "code": "I10",
+      "display": "Essential (primary) hypertension"
+    },
+    {
+      "code": "E11.9",
+      "display": "Type 2 diabetes mellitus without complications"
+    },
+    {
+      "code": "E78.5",
+      "display": "Hyperlipidemia, unspecified"
+    }
+  ]
+}

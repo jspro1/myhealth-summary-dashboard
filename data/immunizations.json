@@ -1,0 +1,30 @@
+{
+  "source": "National Clinical Data Repository",
+  "retrieved_at": "2025-08-16T08:00:00Z",
+  "immunizations": [
+    {
+      "vaccine": "Influenza",
+      "date": "2024-10-15",
+      "lot": "FLU-1234",
+      "status": "completed"
+    },
+    {
+      "vaccine": "COVID-19 (Bivalent)",
+      "date": "2023-12-01",
+      "lot": "COV-9876",
+      "status": "completed"
+    },
+    {
+      "vaccine": "Tdap (Tetanus, Diphtheria, Pertussis)",
+      "date": "2022-08-20",
+      "lot": "TDP-5567",
+      "status": "completed"
+    },
+    {
+      "vaccine": "Hepatitis B",
+      "date": "2021-03-10",
+      "lot": "HBV-7890",
+      "status": "completed"
+    }
+  ]
+}
