@@ -10,3 +10,6 @@ A responsive web app health dashboard that consolidates personal health data ali
 
 <H2>The International Patient Summary (IPS)</H2>
 <img src="assets/myhealth-ips-preview.png" alt="mHealth IPS dataset" width="400">
+
+<H3>Running the App</H3>
+Clone the repo and run it locally using PHP’s built-in server, or import the repo into Replit and run it there using a PHP Web Server instance.
