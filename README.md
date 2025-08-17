@@ -1,0 +1,2 @@
+# myhealth-summary-dashboard
+A responsive web app health dashboard that consolidates personal health data aligned with the International Patient Summary (IPS) standard.
