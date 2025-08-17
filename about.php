@@ -14,7 +14,7 @@ $page_title = "About myHealth Dashboard";
                 <p class="lead">A proof-of-concept patient health summary based on International Patient Summary (IPS) standards.</p>
             </div>
         </div>
-
+        <!-- Patient Summary -->
         <section class="about-content">
             <div class="content-grid">
                 <div class="feature-card">
@@ -23,31 +23,43 @@ $page_title = "About myHealth Dashboard";
                     <p>Displays key health information including medications, allergies, and active medical problems following IPS data standards.</p>
                 </div>
 
+                <!-- Integrated Data -->
                 <div class="feature-card">
                     <div class="feature-icon integration-icon"></div>
                     <h2>Integrated Data</h2>
                     <p>Connects with national clinical repositories to provide comprehensive immunization history and vaccination records.</p>
                 </div>
-
+                
+                <!-- Privacy First -->
                 <div class="feature-card">
                     <div class="feature-icon privacy-icon"></div>
                     <h2>Privacy First</h2>
                     <p>Built with healthcare privacy standards in mind. All data shown is dummy/test data for demonstration purposes only.</p>
                 </div>
-
+                
+                <!-- Responsive Design -->
                 <div class="feature-card">
                     <div class="feature-icon responsive-icon"></div>
                     <h2>Responsive Design</h2>
-                    <p>Clean, modern interface that works seamlessly across desktop and mobile devices with card-based layouts.</p>
+                    <p>Clean, modern interface that works seamlessly across desktop and mobile devices with card-based layout.</p>
                 </div>
+                
+                <!-- Healthcare Interoperability Standards -->
+                <div class="feature-card">
+                    <div class="feature-icon responsive-icon"></div>
+                    <h2>Healthcare Interoperability</h2>
+                    <p>Designed as a proof-of-concept to demonstrate healthcare interoperability with HL7v2 & FHIR Resources.</p>
+                </div>
+                
             </div>
-
+            
+            <!-- Technical Implementation (POC) -->
             <div class="tech-stack">
                 <h2>Technical Implementation</h2>
                 <ul>
                     <li><strong>Backend:</strong> PHP with JSON data storage</li>
                     <li><strong>Frontend:</strong> HTML5, CSS3 with CSS Grid and Flexbox</li>
-                    <li><strong>Data Standards:</strong> International Patient Summary (IPS)</li>
+                    <li><strong>Data Standards:</strong> Based on International Patient Summary (IPS), HL7v2, FHIR API for data exchange</li>
                     <li><strong>Integration:</strong> Mock national clinical data repository connection</li>
                 </ul>
             </div>
