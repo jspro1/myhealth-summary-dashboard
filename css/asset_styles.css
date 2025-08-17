@@ -1,0 +1,207 @@
+/* Asset styles - icons, graphics, and visual elements */
+
+/* Card icons */
+.card-icon {
+    width: 24px;
+    height: 24px;
+    border-radius: 4px;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.medications-icon {
+    background: var(--accent-1);
+}
+
+.medications-icon::before {
+    content: 'Rx';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.allergies-icon {
+    background: var(--accent-3);
+}
+
+.allergies-icon::before {
+    content: '!';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.problems-icon {
+    background: var(--accent-2);
+}
+
+.problems-icon::before {
+    content: '+';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.immunizations-icon {
+    background: var(--accent-1);
+}
+
+.immunizations-icon::before {
+    content: '○';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 12px;
+}
+
+.feature-icon {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    margin: 0 auto 1rem;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.summary-icon {
+    background: var(--accent-2);
+}
+
+.summary-icon::before {
+    content: '📋';
+    font-size: 24px;
+}
+
+.integration-icon {
+    background: var(--accent-1);
+}
+
+.integration-icon::before {
+    content: '🔗';
+    font-size: 24px;
+}
+
+.privacy-icon {
+    background: var(--accent-3);
+}
+
+.privacy-icon::before {
+    content: '🔒';
+    font-size: 24px;
+}
+
+.responsive-icon {
+    background: var(--accent-2);
+}
+
+.responsive-icon::before {
+    content: '📱';
+    font-size: 24px;
+}
+
+.hero-image-placeholder {
+    width: 100%;
+    max-width: 600px;
+    height: 300px;
+    background: linear-gradient(135deg, var(--accent-1), var(--accent-2));
+    border-radius: 12px;
+    margin: 0 auto 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.hero-image-placeholder::before {
+    content: 'Healthcare Technology';
+    color: white;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+/*
+.medications-icon::before {
+    content: '💊';
+    font-size: 16px;
+}
+
+.allergies-icon::before {
+    content: '⚠️';
+    font-size: 16px;
+}
+
+.problems-icon::before {
+    content: '🩺';
+    font-size: 16px;
+}
+
+.immunizations-icon::before {
+    content: '💉';
+    font-size: 16px;
+}
+*/
+
+/* Status Indicators */
+.status-completed {
+    background: #dcfce7;
+    color: #166534;
+}
+
+.status-pending {
+    background: #fef3c7;
+    color: #92400e;
+}
+
+.status-overdue {
+    background: #fecaca;
+    color: #991b1b;
+}
+
+.source-badge {
+    background: var(--accent-1);
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    position: relative;
+}
+
+.source-badge::before {
+    content: '🔗';
+    margin-right: 0.5rem;
+    font-size: 0.9rem;
+}
+
+.highlighted {
+    position: relative;
+}
+
+.highlighted::before {
+    content: '';
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    background: linear-gradient(45deg, var(--accent-1), var(--accent-2));
+    border-radius: 14px;
+    z-index: -1;
+    opacity: 0.1;
+}
