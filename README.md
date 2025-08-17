@@ -8,5 +8,5 @@ A responsive web app health-dashboard that consolidates personal health data ali
 <H2>About myHealth Dashboard</H2>
 <img src="assets/about-myhealth-dashboard.png" alt="About myHealth Dashboard" width="400">
 
-<H2>The International Patient Summary</H2>
+<H2>The International Patient Summary (IPS)</H2>
 <img src="assets/myhealth-ips-preview.png" alt="mHealth IPS dataset" width="400">
