@@ -13,9 +13,9 @@ A responsive web app health dashboard that consolidates personal health data ali
 
 ## Overview
 
-**Problem**: Health data is scattered or siloed across systems (e.g., primary care EMRs, ambulatory CIS, regional CDRs), making it hard for patients and providers to get a consolidated single, clear view.
+**Problem**: Health data is fragmented across multiple systems—primary care EMRs, ambulatory CIS platforms, and regional CDRs—resulting in siloed information. This fragmentation prevents patients and providers from accessing a single, comprehensive, and reliable view of health data.
 
-**Solution**: This PoC demonstrates health data can be standardized, consolidated, and presented in a clear dashboard using a small, fast tech stack.
+**Solution**: This Proof of Concept (PoC) demonstrates that health data can be standardized, consolidated, and presented through a unified dashboard. Built on a lightweight, fast technology stack, the PoC provides a clear view of patient information that enables better clinical decisions, more timely interventions, and improved collaboration across the patient–provider ecosystems.
 - **Feasibility** of IPS-aligned data display 
 - **Simplification** of complex medical records for end users
 - **Standards compliance** with HL7 FHIR/IPS for global interoperability
