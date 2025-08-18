@@ -11,7 +11,7 @@ $patient = load_json(__DIR__ . '/data/patient.json');
 $imms = load_json(__DIR__ . '/data/immunizations.json');
 
 // Set page title
-$page_title = "myHealth Dashboard";
+$page_title = "myHealth Summary";
 ?>
 
 <?php include 'includes/header.php'; ?>
@@ -69,7 +69,7 @@ $page_title = "myHealth Dashboard";
                 </div>
             </section>
 
-            <!-- Problems/Diagnoses Card -->
+            <!-- Diagnoses Card -->
             <section class="card problems-card">
                 <div class="card-header">
                     <h2>Active Problems</h2>

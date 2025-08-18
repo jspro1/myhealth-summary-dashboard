@@ -1,6 +1,6 @@
 <?php
-// Page Title - About myHealth Dashboard
-$page_title = "About myHealth Dashboard";
+// Page Title - About myHealth Summary
+$page_title = "About myHealth Summary";
 ?>
 
 <?php include 'includes/header.php'; ?>
@@ -10,8 +10,8 @@ $page_title = "About myHealth Dashboard";
         <div class="about-hero">
             <div class="hero-image-placeholder"></div>
             <div class="hero-content">
-                <h1>About myHealth Dashboard</h1>
-                <p class="lead">A proof-of-concept patient health summary based on International Patient Summary (IPS) standards.</p>
+                <h1>About myHealth Summary</h1>
+                <p class="lead">A proof-of-concept patient health summary based on the International Patient Summary (IPS) standard.</p>
             </div>
         </div>
         <!-- Patient Summary -->
@@ -20,7 +20,7 @@ $page_title = "About myHealth Dashboard";
                 <div class="feature-card">
                     <div class="feature-icon summary-icon"></div>
                     <h2>Patient Summary</h2>
-                    <p>Displays key health information including medications, allergies, and active medical problems following IPS data standards.</p>
+                    <p>Displays key health information including medications, allergies, and active medical problems following the IPS data standard.</p>
                 </div>
 
                 <!-- Integrated Data -->
@@ -48,7 +48,7 @@ $page_title = "About myHealth Dashboard";
                 <div class="feature-card">
                     <div class="feature-icon responsive-icon"></div>
                     <h2>Healthcare Interoperability</h2>
-                    <p>Designed as a proof-of-concept to demonstrate healthcare interoperability with HL7v2 & FHIR Resources.</p>
+                    <p>Designed as a proof-of-concept to demonstrate healthcare interoperability with HL7v2 & FHIR Resource concepts.</p>
                 </div>
                 
             </div>
@@ -59,8 +59,8 @@ $page_title = "About myHealth Dashboard";
                 <ul>
                     <li><strong>Backend:</strong> PHP with JSON data storage</li>
                     <li><strong>Frontend:</strong> HTML5, CSS3 with CSS Grid and Flexbox</li>
-                    <li><strong>Data Standards:</strong> Based on International Patient Summary (IPS), HL7v2, FHIR API for data exchange</li>
-                    <li><strong>Integration:</strong> Mock national clinical data repository connection</li>
+                    <li><strong>Data Standards:</strong> Based on International Patient Summary (IPS), HL7v2, FHIR API concepts for data exchange</li>
+                    <li><strong>Integration:</strong> Mock National Clinical Data Repository connection</li>
                 </ul>
             </div>
         </section>
