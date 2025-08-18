@@ -11,6 +11,10 @@ A responsive web app health dashboard that consolidates personal health data ali
 <H2>The International Patient Summary (IPS)</H2>
 <img src="assets/myhealth-ips-preview.png" alt="mHealth IPS dataset" width="400">
 
+<center>
+<a href="https://international-patient-summary.net/" target="_blank"><img src="https://img.shields.io/badge/Standard-IPS-blue" alt="Standard IPS"></a>
+</center>
+
 ## Overview
 
 **Problem**: Health data is fragmented across multiple systems—primary care EMRs, ambulatory CIS platforms, and regional CDRs—resulting in siloed data. This fragmentation often prevents patients and providers from accessing a single, comprehensive, and reliable view of the patient summary.
