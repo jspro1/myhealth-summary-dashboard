@@ -24,7 +24,7 @@ A responsive web app health dashboard that consolidates personal health data ali
 - **Simplification** of complex medical records for end users
 - **Standards compliance** with HL7 FHIR/IPS concepts for global interoperability
 - **On-demand access** enables patients to quickly search and retrieve relevant personal health information
-- **Proactive engagement** empowers patients to monitor their health with clear, actionable data and insights
+- **Proactive engagement** empowers patients to monitor their own health with clear, actionable data and insights
 
 ## Implementation
 
