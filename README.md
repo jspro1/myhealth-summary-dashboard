@@ -22,7 +22,7 @@ A responsive web app health dashboard that consolidates personal health data ali
 **Solution**: This Proof of Concept (PoC) demonstrates that health data can be standardized, consolidated, and presented through a unified dashboard. Built on a lightweight, fast technology stack, the PoC provides a clear view of patient information, enabling better support for health-related decisions, more timely interventions, and improved collaboration across patient–provider ecosystems.
 - **Feasibility** of IPS-aligned data display 
 - **Simplification** of complex medical records for end users
-- **Standards compliance** with HL7 FHIR/IPS for global interoperability
+- **Standards compliance** with HL7 FHIR/IPS concepts for global interoperability
 - **On-demand access** enables patients to quickly search and retrieve relevant personal health information
 - **Proactive engagement** empowers patients to monitor their health with clear, actionable data and insights
 
