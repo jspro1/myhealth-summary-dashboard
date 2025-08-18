@@ -2,7 +2,7 @@
 
 A responsive web app health dashboard that consolidates personal health data aligned to the International Patient Summary (IPS) standard.
 
-<H2>Patient Summary Dashboard</H2>
+<H2>Patient Summary</H2>
 <img src="assets/myhealth-summary.png" alt="myHealth Summary" width="400"><br>
 
 <H2>About myHealth Summary</H2>
