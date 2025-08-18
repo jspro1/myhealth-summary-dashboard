@@ -12,7 +12,7 @@ A responsive web app health dashboard that consolidates personal health data ali
 <img src="assets/myhealth-ips-preview.png" alt="mHealth IPS dataset" width="400">
 
 <center>
-<a href="https://international-patient-summary.net/" target="_blank"><img src="https://img.shields.io/badge/Standard-IPS-blue" alt="Standard IPS"></a>
+<a href="https://international-patient-summary.net/" target="_new"><img src="https://img.shields.io/badge/Standard-IPS-blue" alt="Standard IPS"></a>
 </center>
 
 ## Overview
