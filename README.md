@@ -49,5 +49,5 @@ This is a **proof-of-concept** demonstrating core functionality:
 - No authentication or user management
 - Demo data only
 
-## Running the App
+## Quick Start
 Clone the repo and run it locally using PHP’s built-in server, or import the repo into Replit and run it there using a PHP Web Server instance.
