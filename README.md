@@ -55,5 +55,13 @@ This is a **proof-of-concept** demonstrating core functionality:
 - No authentication or user management
 - Demo data only
 
+
 ## Quick Start
-Clone the repo and run it locally using PHP’s built-in server, or import the repo into Replit and run it there using a PHP Web Server instance.
+1. Clone the repo and run it locally using PHP's built-in server
+2. Alternatively, you can import the repo into Replit and run it there using a PHP Web Server instance.
+
+## Live Demo
+[View Live Demo](https://a82407ba-32f6-4ee2-b19e-d9080458a301-00-q4pvso6m5p7i.worf.replit.dev/index.php)
+
+Live preview available on Replit: [View Demo]
+
