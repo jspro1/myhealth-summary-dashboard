@@ -38,9 +38,9 @@ A responsive web app health dashboard that consolidates personal health data ali
 
 :white_check_mark: Successfully loads and displays sample patient summary  
 :white_check_mark: Validates IPS standard implementation approach  
-:memo: Key insight: Disparate patient records consolidated in one standardized view<br>
+:memo: Key insight: Disparate patient data consolidated in one standardized view<br>
 :memo: Key insight: Complex medical data becomes easier to understand<br>
-:memo: Key insight: Supports use case for on-demand access<br>
+:memo: Key insight: Supports use case for on-demand access to patient summary data<br>
 
 ## Scope & Limitations
 
