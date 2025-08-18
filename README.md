@@ -2,10 +2,10 @@
 
 A responsive web app health dashboard that consolidates personal health data aligned to the International Patient Summary (IPS) standard.
 
-## Patient Dashboard
+## myHealth Summary - Dashboard
 <img src="assets/myhealth-summary.png" alt="myHealth Summary" width="400"><br>
 
-## About myHealth Summary
+## myHealth Summary - About
 <img src="assets/about-myhealth-dashboard2.jpg" alt="About myHealth Dashboard" width="400">
 
 ## The International Patient Summary (IPS)
@@ -15,11 +15,11 @@ A responsive web app health dashboard that consolidates personal health data ali
 <a href="https://international-patient-summary.net/" target="_blank"><img src="https://img.shields.io/badge/Standard-IPS-blue" alt="Standard IPS"></a>
 </center>
 
-## Overview
+## myHealth Summary - Overview
 
 **Problem**: Health data is fragmented across multiple systems—primary care EMRs, ambulatory CIS platforms, and regional CDRs—resulting in siloed data. This fragmentation often prevents patients and providers from accessing a single, comprehensive, and reliable view of the patient summary.
 
-**Solution**: This Proof of Concept (PoC) demonstrates that health data can be standardized, consolidated, and presented through a unified dashboard. Built on a lightweight, fast technology stack, the PoC provides a clear view of patient information, enabling better support for health-related decisions, more timely interventions, and improved collaboration across patient–provider ecosystems.
+**Solution**: myHealth Summary Proof of Concept (PoC) demonstrates that health data can be standardized, consolidated, and presented through a unified dashboard. Built on a lightweight, fast technology stack, the PoC provides a clear view of patient information, enabling better support for health-related decisions, more timely interventions, and improved collaboration across patient–provider ecosystems.
 - **Feasibility** of IPS-aligned data display 
 - **Simplification** of complex medical records for end users
 - **Standards compliance** with HL7 FHIR/IPS concepts for global interoperability
