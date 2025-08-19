@@ -24,7 +24,7 @@ A responsive web application that consolidates personal health data, aligned wit
 - **Simplification** of complex medical records for end users
 - **Standards compliance** with HL7 FHIR/IPS concepts for global interoperability
 - **On-demand access** enables patients to securely retrieve a consolidated view of their health summary at any time
-- **Proactive engagement** helps patients manage their health with clear, actionable data and insights.
+- **Proactive engagement** helps patients manage their health with clear, actionable data and insights
 
 ## Implementation
 
