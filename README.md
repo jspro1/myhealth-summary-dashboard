@@ -59,8 +59,11 @@ This is a **proof-of-concept** demonstrating core functionality:
 1. Clone the repo and run it locally using PHP's built-in server.
 2. Alternatively, you can import the repo into Replit and run it there using a PHP Web Server instance.
 
-
+<!--
 ## 📈 myHealth Summary - Demo
+-->
+
+## myHealth Summary - Demo
 
 🌐 **[View Live Demo](http://myhealth-summary.atwebpages.com/)**
 
