@@ -44,8 +44,8 @@ A responsive web application that consolidates personal health data, aligned wit
 
 :white_check_mark: Successfully loads and displays sample patient summary  
 :white_check_mark: Validates IPS standard implementation approach  
-:memo: Key insight: Disparate patient data consolidated in one standardized view<br>
-:memo: Key insight: Complex medical data becomes easier to understand<br>
+:memo: Key insight: Fragmented patient data consolidated in one standardized view<br>
+:memo: Key insight: Complex medical information becomes easier to understand<br>
 :memo: Key insight: On-demand access to the patient summary<br>
 
 ## Scope & Limitations
