@@ -64,6 +64,6 @@ This is a **proof-of-concept** demonstrating core functionality:
 
 ## myHealth Summary - Demo
 
-🌐 **[View Live Demo](http://myhealth-summary.atwebpages.com/)**
+🌐 **[View Live Demo](http://myhealth-summary-demo.atwebpages.com/)**
 
 
