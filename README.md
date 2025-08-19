@@ -1,4 +1,4 @@
-# 📱 myHealth Summary 
+## 📱 myHealth Summary 
 
 A responsive web application that consolidates personal health data, aligned with the International Patient Summary (IPS) standard.
 
@@ -59,9 +59,8 @@ This is a **proof-of-concept** demonstrating core functionality:
 1. Clone the repo and run it locally using PHP's built-in server.
 2. Alternatively, you can import the repo into Replit and run it there using a PHP Web Server instance.
 
-<!--
-## 📈 myHealth Summary - Demo
--->
+<!-- ## 📈 myHealth Summary - Demo -->
+<!-- This is a comment in markdown -->
 
 ## myHealth Summary - Demo
 
