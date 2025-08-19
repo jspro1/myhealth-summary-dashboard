@@ -57,7 +57,7 @@ $page_title = "About myHealth Summary";
             <div class="tech-stack">
                 <h2>Technical Implementation</h2>
                 <ul>
-                    <li><strong>Backend:</strong> PHP with JSON data storage</li>
+                    <li><strong>Backend:</strong> PHP with lightweight JSON file storage (sample patient summary data for PoC)</li>
                     <li><strong>Frontend:</strong> HTML5, CSS3 with CSS Grid and Flexbox</li>
                     <li><strong>Data Standards:</strong> Based on International Patient Summary (IPS), HL7v2, FHIR API concepts for data exchange</li>
                     <li><strong>Integration:</strong> Mock National Clinical Data Repository connection</li>
