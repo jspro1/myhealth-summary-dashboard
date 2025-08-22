@@ -8,6 +8,9 @@ A responsive web application that consolidates personal health data, aligned wit
 ## myHealth Summary - About
 <img src="assets/about-myhealth-dashboard2.jpg" alt="About myHealth Dashboard" width="400">
 
+<img src="assets/myhealth-scene2.jpg" alt="About myHealth Dashboard" width="400">
+
+
 ## The International Patient Summary (IPS)
 <img src="assets/myhealth-ips-preview.png" alt="mHealth IPS dataset" width="400">
 
