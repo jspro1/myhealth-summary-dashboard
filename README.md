@@ -2,15 +2,14 @@
 
 A responsive web application that consolidates personal health data, aligned with the International Patient Summary (IPS) standard.
 
-## myHealth Summary - Dashboard
+## myHealth Summary — Dashboard
 <img src="assets/myhealth-summary.png" alt="myHealth Summary" width="400"><br>
 
-## myHealth Summary - About
+## myHealth Summary — About
 <img src="assets/about-myhealth-dashboard2.jpg" alt="About myHealth Dashboard" width="400">
 
 ## myHealth Agent — Cryptogram
-<img src="assets/myhealth-scene2.jpg" alt="mHealth Agent — Cryptogram" width="400">
-
+<img src="assets/swift-agent-cryptogram.jpg" alt="mHealth Agent — Cryptogram" width="400">
 
 ## The International Patient Summary (IPS)
 <img src="assets/myhealth-ips-preview.png" alt="mHealth IPS dataset" width="400">
@@ -19,7 +18,7 @@ A responsive web application that consolidates personal health data, aligned wit
 <a href="https://international-patient-summary.net/" target="_blank"><img src="https://img.shields.io/badge/Standard-IPS-blue" alt="Standard IPS"></a>
 </center>
 
-## myHealth Summary - Overview
+## myHealth Summary — Overview
 
 **Problem**: Health data is fragmented across multiple systems—primary care EMRs, ambulatory CIS platforms, and regional CDRs—resulting in siloed data. This fragmentation often prevents patients and providers from accessing a single, comprehensive, and reliable view of the patient summary.
 
