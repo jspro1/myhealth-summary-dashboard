@@ -51,6 +51,7 @@ A responsive web application that consolidates personal health data, aligned wit
 :memo: Key insight: Fragmented patient data consolidated in one standardized view<br>
 :memo: Key insight: Complex medical information becomes easier to understand<br>
 :memo: Key insight: On-demand access to the patient summary<br>
+:memo: Key insight: Agentic concepts can enhance personalized wellness guidance<br>
 
 ## Scope & Limitations
 
