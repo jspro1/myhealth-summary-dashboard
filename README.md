@@ -8,8 +8,8 @@ A responsive web application that consolidates personal health data, aligned wit
 ## myHealth Summary - About
 <img src="assets/about-myhealth-dashboard2.jpg" alt="About myHealth Dashboard" width="400">
 
-## Swift Agent — Cryptogram
-<img src="assets/myhealth-scene2.jpg" alt="Swift Agent — Cryptogram" width="400">
+## myHealth Agent — Cryptogram
+<img src="assets/myhealth-scene2.jpg" alt="mHealth Agent — Cryptogram" width="400">
 
 
 ## The International Patient Summary (IPS)
@@ -29,6 +29,7 @@ A responsive web application that consolidates personal health data, aligned wit
 - **Standards compliance** with HL7 FHIR/IPS concepts for global interoperability
 - **On-demand access** enables patients to securely retrieve a consolidated view of their health summary at any time
 - **Proactive engagement** helps patients manage their health with clear, actionable data and insights
+- **myHealth Agent** 'Cryptogram' is an agentic health assistant concept for personalized wellness guidance and vitality.
 
 ## Implementation
 
