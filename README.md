@@ -8,7 +8,8 @@ A responsive web application that consolidates personal health data, aligned wit
 ## myHealth Summary - About
 <img src="assets/about-myhealth-dashboard2.jpg" alt="About myHealth Dashboard" width="400">
 
-<img src="assets/myhealth-scene2.jpg" alt="About myHealth Dashboard" width="400">
+## Swift Agent — Cryptogram
+<img src="assets/myhealth-scene2.jpg" alt="Swift Agent — Cryptogram" width="400">
 
 
 ## The International Patient Summary (IPS)
