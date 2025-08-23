@@ -28,7 +28,7 @@ A responsive web application that consolidates personal health data with agentic
 - **Standards compliance** with HL7 FHIR/IPS concepts for global interoperability
 - **On-demand access** enables patients to securely retrieve a consolidated view of their health summary at any time
 - **Proactive engagement** helps patients manage their health with clear, actionable data and insights
-- **myHealth Agent** 'Cryptogram' is an agentic health-assistant concept for personalized wellness guidance and vitality.
+- **myHealth Agent** "Cryptogram" is an agentic health-assistant concept for personalized wellness guidance and vitality.
 
 ## Implementation
 
@@ -51,7 +51,7 @@ A responsive web application that consolidates personal health data with agentic
 :memo: Key insight: Fragmented patient data consolidated in one standardized view<br>
 :memo: Key insight: Complex medical information becomes easier to understand<br>
 :memo: Key insight: On-demand access to the patient summary<br>
-:memo: Key insight: Agentic concepts can enhance personalized wellness guidance<br>
+:memo: Key insight: Agentic concepts enhance personalized wellness guidance and vitality<br>
 
 ## Scope & Limitations
 
