@@ -69,4 +69,5 @@ This is a **proof-of-concept** demonstrating core functionality:
 
 🌐 **[View Live Demo](http://myhealth-summary-demo.atwebpages.com/)**
 
-
+---
+© 2025 jspro1. All rights reserved.
