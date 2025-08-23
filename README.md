@@ -1,6 +1,6 @@
 ## 📱 myHealth Summary 
 
-A responsive web application that consolidates personal health data, aligned with the International Patient Summary (IPS) standard.
+A responsive web application that consolidates personal health data with agentic health assistant concepts, aligned with the International Patient Summary (IPS) standard.
 
 ## myHealth Summary — Dashboard
 <img src="assets/myhealth-summary.png" alt="myHealth Summary" width="400"><br>
