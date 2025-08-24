@@ -1,4 +1,5 @@
 <?php
+// © 2025 jspro1. All rights reserved. 
 // Load JSON data
 function load_json($path) {
     if (!file_exists($path)) return null;

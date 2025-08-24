@@ -1,4 +1,5 @@
 <?php
+// © 2025 jspro1. All rights reserved. 
 // Page Title - About myHealth Summary
 $page_title = "About myHealth Summary";
 ?>
